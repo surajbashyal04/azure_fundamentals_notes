@@ -1,2 +1,67 @@
-this doc is where I keeps the infro relating to the Azure course I am starting.
+this doc is where I keeps the infro relating to the Azure course I am starting
+*provides cloud services*
+infra management, availabity, scability 
+Temporary Azure environment = sandbox
 
+*Topics covered in this course* 
+1. CLoud Storage
+2. Core Azure Services
+3. Core Solutions and management tools on Azure 
+4. General Security and network security features
+5. Cost management and service level agreements 
+
+most importantly to find out if cloud computing (azure) is right for your business
+
+
+*CLOUD COMPUTING*
+Compute power and storage provided online which is cost saving and only use resources you used 
+- updated computing sevices 
+-add/remove services when necessary
+
+
+alright I have quite abit of knowledge on cloud computing with completing this course I hope it challenges by knowlegdes on this. 
+
+the best part is analytics 
+
+
+
+let's begin Azure 
+
+Azure is basically sets of online services provided to the individual or business with the computing and storage servies 
+
+*how does it works*
+
+    many data centers all over the world. 
+    each centers have racks with servers and having hypervisor. 
+    one server in each rack runs a special peice of software called a fabric controller. 
+    and these controller are connected to peice pof software called thr orchestrator. 
+    they respond to user 
+    
+    *Azure portal*
+    Build, manage, and monitor everything from simple web apps to complex cloud deployments.
+Create custom dashboards for an organized view of resources.
+Configure accessibility options for an optimal experience.
+
+
+*Azure marketplace o
+
+      -COmpute
+     -networking
+     - storage
+     - mobile
+     - databases
+     -web
+     -IoT
+     -AI
+     -DevOps
+     
+     
+     CapEx: infrastructure buing
+     OpEx: CLoud renting 
+  MOdels of cloud services:
+     Iaas : giving you complete control over the hardware . instead of buying you rent the hardware
+     PaaS: hardware and virtual machines, networking resources 
+     SaaS: provides all services like VM, netwokring resources, data storage and apps. 
+  
+  
+     
