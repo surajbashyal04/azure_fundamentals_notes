@@ -63,5 +63,10 @@ Configure accessibility options for an optimal experience.
      PaaS: hardware and virtual machines, networking resources 
      SaaS: provides all services like VM, netwokring resources, data storage and apps. 
   
-s
+ 
      
+You create logic app workflows by using a visual designer on the Azure portal or
+in Visual Studio. The workflows are persisted as a JSON file with a known'
+workflow schema.
+
+
